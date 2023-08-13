@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martinLgimenez
+# 👋 Hi, I’m @martinLgimenez
 - 👀 I’m interested in programming and electronics
 - 🌱 I’m currently learning arduino
 - 💞️ I’m looking to collaborate
