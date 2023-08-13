@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I’m @martinLgimenez</h1>
-
 - 👀 I’m interested in programming and electronics
 - 🌱 I’m currently learning arduino
 - 💞️ I’m looking to collaborate
