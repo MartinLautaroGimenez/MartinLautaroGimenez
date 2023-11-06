@@ -4,7 +4,11 @@
   <img src="https://img.shields.io/badge/Programming-Passion-blue">
   <img src="https://img.shields.io/badge/Electronics-Curious-orange">
   <img src="https://img.shields.io/badge/Learning-C%2B%2B-brightgreen">
-  <img src="https://img.shields.io/badge/Collaboration-Welcome-yellow">
+  <img src="https://img.shields.io/badge/GitHub-Enthusiast-lightgrey">
+  <img src="https://img.shields.io/badge/MQTT-Explorer-success">
+  <img src="https://img.shields.io/badge/Node-RED-Adventurer-critical">
+  <img src="https://img.shields.io/badge/VSCode-Lover-informational">
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-9cf">
 </p>
 
 Welcome to my GitHub profile! I'm passionate about programming and electronics. Currently, I'm diving deep into the exciting world of C++ as I seek to learn and grow in this domain.
@@ -14,6 +18,7 @@ Welcome to my GitHub profile! I'm passionate about programming and electronics. 
 - 🌱 I'm currently exploring the intricacies of C++ to strengthen my programming skills.
 - 👀 I'm always interested in exciting and challenging tech-related projects.
 - 💬 Feel free to reach out if you want to discuss innovative ideas or exciting collaborations.
+
 
 <!---
 martinLgimenez/martinLgimenez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
