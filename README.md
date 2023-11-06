@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-blue">
   <img src="https://img.shields.io/badge/MQTT-purple">
-  <img src="https://img.shields.io/badge/Node-Red-red">
-  <img src="https://img.shields.io/badge/VSCode-blue">
+  <img src="[https://img.shields.io/badge/Node-Red-red](https://img.shields.io/badge/IoT-Node%20Red-informational?style=plastic&logo=nodered&logoColor=rgb(143,0,0)&label=IoT&color=rgb(143,0,0))">
+  <img src="[https://img.shields.io/badge/VSCode-blue](https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=visualstudiocode&logoColor=blue&label=Editor&color=blue)">
   <img src="https://img.shields.io/badge/Linux-green">
 </p>
 
