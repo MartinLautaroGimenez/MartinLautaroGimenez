@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I’m @martinLgimenez</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Programming-Passion-blue">
-  <img src="https://img.shields.io/badge/Electronics-Curious-orange">
-  <img src="https://img.shields.io/badge/Learning-C%2B%2B-brightgreen">
-  <img src="https://img.shields.io/badge/Collaboration-Welcome-yellow">
   <img src="https://img.shields.io/badge/GitHub-blue">
   <img src="https://img.shields.io/badge/MQTT-purple">
   <img src="https://img.shields.io/badge/Node-Red-red">
