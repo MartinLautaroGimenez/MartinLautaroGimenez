@@ -1,79 +1,52 @@
-<div align="center">
+# Hi 👋, I'm Martín Lautaro Giménez
 
-# Martín Lautaro Giménez
+### Estudiante de Escuela Técnica (UM) construyendo sistemas IoT de punta a punta — ESP32, backends y dashboards
 
-### Estudiante de Escuela Técnica (UM) · Mendoza, Argentina
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MartinLautaroGimenez&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-Construyo sistemas que conectan hardware con software: **ESP32 + backend + dashboard**,
-de punta a punta, casi siempre para resolver un problema real de mi escuela.
+- 🔭 I'm currently working on **Red de Estaciones Meteorológicas · VitisGuard · Acceso 4.0**
+- 🌱 I'm currently learning **SQLAlchemy · React/Next.js con TypeScript · Terraform · Proxmox**
+- 👯 I'm looking to collaborate on **Proyectos open source · Proyectos educativos**
+- 🤝 I'm looking for help with **Diseño de sistemas · Buenas prácticas de DevOps/despliegue**
+- 💬 Ask me about **ESP32/Arduino, FastAPI, MQTT, despliegue de sistemas IoT, Python**
+- 📫 How to reach me **mal.gimenez@alumno.etec.um.edu.ar**
 
-[![Email](https://img.shields.io/badge/-martingimenez809%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:martingimenez809@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/MartinLautaroGimenez?style=flat-square&label=followers&color=181717)](https://github.com/MartinLautaroGimenez?tab=followers)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/MartinLautaroGimenez" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/martín-gimenez-747207352" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
 
-</div>
-
-<br>
-
-## Lo que hago
-
-Diseño e implemento sistemas IoT completos: firmware en C++ para microcontroladores
-(ESP32/Arduino), backends en Python (FastAPI) o PHP, y dashboards en React/Next.js,
-comunicados por MQTT o HTTP. Me interesa que lo que construyo se use de verdad —
-la mayoría de mis proyectos terminan corriendo en producción en mi escuela.
-
-<br>
-
-## Proyectos destacados
+<h3 align="left">Proyectos destacados</h3>
 
 | Proyecto | Qué es |
 |---|---|
-| 🔐 **Acceso 4.0** | Cerraduras inteligentes por aula: ESP32 (keypad + relé) que valida códigos localmente y sincroniza por MQTT con un servidor FastAPI + dashboard Next.js. Deploy con Docker/Terraform. |
-| 🎓 **ETec+** | Plataforma para digitalizar la gestión escolar: notas, asistencias, sanciones y eventos, desarrollada por y para la comunidad de ETec. |
-| 💊 **Pilly** | Pastillero inteligente: ESP32 + OLED + LEDs que guía la toma de medicación, registra el cumplimiento y se gestiona en forma remota. |
-| 🎤 **[Karaokify](https://github.com/MartinLautaroGimenez/Karaokify)** | Web app local para bajar audio de YouTube y separar la voz con Demucs — FastAPI + yt-dlp + IA. |
-| 🌤️ **Estaciones meteorológicas** ([estática](https://github.com/MartinLautaroGimenez/estacion-meteorologica-estatica) · [móvil](https://github.com/MartinLautaroGimenez/estacion-movil)) | Serie de estaciones meteorológicas con microcontroladores, sensores y visualización web. |
+| 🔐 **Acceso 4.0** | Cerraduras inteligentes por aula: ESP32 (keypad + relé) que valida códigos localmente y sincroniza por MQTT con un servidor FastAPI + dashboard Next.js. Deploy con Docker/Terraform sobre Proxmox. |
+| 🌤️ **Red de Estaciones Meteorológicas** | Estaciones con microcontroladores y sensores, con visualización web de los datos. |
+| 🍇 **VitisGuard** | En desarrollo. |
 
-<br>
+<h3 align="left">Languages and Tools</h3>
 
-## Stack
+<p align="left">
+  <em>Embebido / IoT</em><br/>
+  <img src="https://skillicons.dev/icons?i=arduino,cpp" height="42"/>
+</p>
+<p align="left">
+  <em>Backend</em><br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,mysql,bash" height="42"/>
+</p>
+<p align="left">
+  <em>Frontend</em><br/>
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,html,css,js,tailwind" height="42"/>
+</p>
+<p align="left">
+  <em>Infra / Herramientas</em><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx" height="42"/>
+</p>
 
-<div align="center">
-
-**Embebido / IoT**
-
-<img src="https://skillicons.dev/icons?i=arduino,cpp" height="42"/> &nbsp; MQTT
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,php,sqlite,mysql" height="42"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,html,css,js" height="42"/>
-
-**Herramientas**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" height="42"/>
-
-</div>
-
-<br>
-
-## Estadísticas
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MartinLautaroGimenez&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinLautaroGimenez&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinLautaroGimenez&theme=github-dark&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-
-📍 Mendoza, Argentina · 🏫 Escuela de Tecnología, Universidad de Mendoza
-
-</div>
+<h3 align="left">Metrics</h3>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/MartinLautaroGimenez/MartinLautaroGimenez/main/metrics.svg" alt="Métricas de GitHub de Martín Lautaro Giménez" />
+</p>

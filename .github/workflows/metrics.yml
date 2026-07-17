@@ -1,0 +1,44 @@
+name: Metrics
+
+on:
+  workflow_dispatch:      # permite correrlo manualmente desde la pestaña Actions
+  schedule:
+    - cron: "0 6 * * *"   # todos los días 06:00 UTC (03:00 Argentina)
+  push:
+    branches: [main]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token con permisos de lectura sobre tu cuenta (ver README para crearlo)
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+          committer_message: "chore: actualizar metrics.svg"
+
+          # --- Apariencia ---
+          theme: github-dark
+          config_timezone: America/Argentina/Mendoza
+
+          # --- Lenguajes usados (excluye el propio repo de perfil) ---
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_ignored: "MartinLautaroGimenez"
+
+          # --- Hábitos de código (horarios, tipos de commit, etc.) ---
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 60
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+
+          # --- Calendario de contribuciones en isométrico ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
