@@ -46,7 +46,3 @@
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx" height="42"/>
 </p>
 
-<h3 align="left">Metrics</h3>
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/MartinLautaroGimenez/MartinLautaroGimenez/main/metrics.svg" alt="Métricas de GitHub de Martín Lautaro Giménez" />
-</p>
